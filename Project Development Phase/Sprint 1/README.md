@@ -6,9 +6,11 @@ Project Name:	Early Detection of Chronic Kidney Disease using Machine Learning
 
 
 
+
 Registration Page for new users:
 
 ![image](https://user-images.githubusercontent.com/113632802/198840493-e89dcd4e-1a0c-42f1-aecc-389e7dbae91d.png)
+
 
 
 
