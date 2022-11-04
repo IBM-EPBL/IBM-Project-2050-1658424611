@@ -6,4 +6,4 @@ Project Name: Early Detection of Chronic Kidney Disease using Machine Learning
 
 Comparison of accuracy of various models:
 
-![newplot](https://user-images.githubusercontent.com/76144947/200002200-0fb3a79b-5251-4bda-bbc4-dc0cb4b54195.png)
+<img width="877" alt="image" src="https://user-images.githubusercontent.com/76144947/200002836-04431f54-4568-4a46-9579-fe58cfb13583.png">
